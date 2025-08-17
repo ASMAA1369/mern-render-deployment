@@ -71,7 +71,7 @@ npm run dev
 
 ## Remarques
 
-* Le projet est déjà déployé sur Vercel car j'ai eu un blocage au niveau des autres pmateforme AZURE, Render...
+* Le projet est déployé sur Vercel car j'ai eu un blocage au niveau des autres plateformes AZURE, Render...
 
 
 ---
